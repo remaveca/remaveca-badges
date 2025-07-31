@@ -1,0 +1,6 @@
+{
+  "schemaVersion": 1,
+  "label": "@semantic-release/commit-analyzer",
+  "message": "^13.0.1",
+  "color": "#665339"
+}
