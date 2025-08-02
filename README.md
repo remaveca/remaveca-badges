@@ -6,7 +6,7 @@ Gracias a herramientas como [Shields.io](https://shields.io/) y [GitHub Pages](h
 
 - Versión actual publicada mediante `Semantic Release`
 - Estado de compilación o pruebas
-- Métricas personalizadas 
+- Métricas personalizadas
 
 Este enfoque brinda una forma segura y eficiente de exponer visualmente información técnica sin comprometer los repositorios privados. Además, se puede automatizar la actualización de estos badges mediante workflows en GitHub Actions desde otros proyectos internos.
 
